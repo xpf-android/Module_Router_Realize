@@ -1,0 +1,8 @@
+rootProject.name='Module_Router_Realize'
+include ':app'
+include ':order'
+include ':personal'
+include ':common'
+include ':annotation'
+include ':compiler'
+include ':api'
